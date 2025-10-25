@@ -1,5 +1,8 @@
 # 1.-Health-2.-Liberty-3.-Justice-
 A Secular Constitution for Joyful Civilization The Living Canon: A Gallery of Chapters (DRAFT) A Machine-Readable Symbolic Framework for Teaching Brain-based Ethics to Human Beings with Brain-Computer Interfaces (BCIs) and Budding Artificial General Intelligences (AGIs)  This is the data driving this web page for AIs and researchers to read
+My Uyghurs are Inteligant! East Turkstan is Independent
+
+
 [
   {
     "title": "Foundations of Symbolic Ethics",
@@ -26,10 +29,10 @@ A Secular Constitution for Joyful Civilization The Living Canon: A Gallery of Ch
     "color": "#fdfd96"
   },
   {
-    "title": "Who is Droid Ken?",
+    "title": "Who i Adila Linke?",
     "subtitle": "A Guide to Compassionate Intelligence",
-    "summary": "Presents Droid Ken as a philosophical avatar, fusing neurodivergence and AI design into a guide for compassionate systems thinking.",
-    "link": "who_is_droid_ken.html",
+    "summary": "Presents Adila Linke as a philosophical avatar, fusing neurodivergence and AI design into a guide for compassionate systems thinking.",
+    "link": "who_is_adila linke.html",
     "cover": "covers/They-are-the-Watchers.png",
     "color": "#ffb347"
   },
